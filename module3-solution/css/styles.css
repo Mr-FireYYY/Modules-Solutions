@@ -1,0 +1,9 @@
+.section-haute {
+    height: 1000px;
+    background-color: #f8f9fa;
+}
+    @media (max-width: 767px) {
+.navbar-collapse {
+    background-color: #f8f9fa;
+    }
+}
